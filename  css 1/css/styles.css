@@ -1,0 +1,35 @@
+* {
+  font-family: "Lato", sans-serif;
+  background-color: #f4f4f4;
+  text-transform: uppercase;
+}
+
+body {
+  font-size: 18px;
+}
+
+header {
+  background-color: purple;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  text-indent: 20px;
+}
+
+a {
+  color: gray;
+}
+a:hover {
+  color: rebeccapurple;
+}
+
+p {
+  font-weight: bold;
+  font-size: 20px;
+  color: rebeccapurple;
+}
+li {
+  background-color: lightgreen;
+}
